@@ -20,7 +20,8 @@ body {
 }
 
 .on {
-  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfmywR_srcH4D6OXZQssfuT8Vq6KywqZok9xvD8CW2RXvQOISN');
+  /* background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfmywR_srcH4D6OXZQssfuT8Vq6KywqZok9xvD8CW2RXvQOISN'); */
+  background-image : url("icons8-queen-40.png");
   background-size: 50px;
   width: 50px;
   height: 50px;}
